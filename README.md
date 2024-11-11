@@ -1,10 +1,10 @@
-# [Geonor T-200B Series Precipitation Gauge](https://www.geonor.no/our-products/geonor-t-200b-series-all-weather-precipitation-gauges)
+# [Geonor T-200B Series Precipitation Gauges](https://www.geonor.no/our-products/geonor-t-200b-series-all-weather-precipitation-gauges)
 
-The **Geonor T-200B Series Precipitation Gauge** is a high-precision instrument designed for accurate measurement of all forms of precipitation. Trusted by meteorological agencies worldwide, it combines robust design with cutting-edge technology to deliver reliable data in various weather conditions.
+The **Geonor T-200B Series Precipitation Gauges** is a high-precision instrument designed for accurate measurement of all forms of precipitation. Trusted by meteorological agencies worldwide, it combines robust design with cutting-edge technology to deliver reliable data in various weather conditions.
 
 ## Repository Features
 
-This repository provides comprehensive documentation, technical specifications, and user manuals for the Geonor T-200B Series, supporting users in installation, operation, and maintenance.
+This repository provides comprehensive documentation, technical specifications, and user manuals for the Geonor T-200B Series Precipitaion Gauges, supporting users in installation, operation, and maintenance.
 
 This repository includes:
 
